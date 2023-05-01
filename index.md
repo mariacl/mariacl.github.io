@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+### Blog Test 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+# About me
+Localization and Bulerias
